@@ -1,5 +1,6 @@
 # Hello, I'm Sven Geurtsen
 <a href="https://www.linkedin.com/in/sven-geurtsen-994632345/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+I’m a Cyber Security graduate passionate about the full spectrum of security from penetration testing to blue team operations and SOC automation. I built an MvP to automate SOC processes with Microsoft Sentinel and Azure, and I enjoy turning attacker insight into stronger detections.
 
 ## 🎓 Education
 
@@ -64,5 +65,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SOC Automation MvP (Rademaker)
