@@ -1,9 +1,17 @@
 # Hello, I'm Sven Geurtsen
 <a href="https://www.linkedin.com/in/sven-geurtsen-994632345/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## 🎓 Education
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Associate Degree in Cyber Security — Hogeschool van Amsterdam
+Graduated: 2025
+
+During my studies, I focused on both offensive and defensive security.
+I worked on penetration testing labs, vulnerability assessments, and blue team simulations using tools like Wazuh, Arkime, and Metasploit.
+
+My graduation project at Rademaker centered on defensive cybersecurity, where I developed a Proof of Concept to automate SOC processes using Microsoft Sentinel, Logic Apps, and Azure Functions.
+
+This balance between offensive knowledge and defensive implementation allows me to approach incidents from both perspectives — understanding attacker behavior and designing stronger detections. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
