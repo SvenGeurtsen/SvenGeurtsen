@@ -9,11 +9,11 @@ Graduated: 2025
 During my studies, I focused on both offensive and defensive security.
 I worked on penetration testing labs, vulnerability assessments, and blue team simulations using tools like Wazuh, Arkime, and Metasploit.
 
-My graduation project at Rademaker centered on defensive cybersecurity, where I developed a Proof of Concept to automate SOC processes using Microsoft Sentinel, Logic Apps, and Azure Functions.
+My graduation project at Rademaker centered on defensive cybersecurity, where I developed a Minimum Viable Product to automate SOC processes using Microsoft Sentinel, Logic Apps, Azure Functions. I also improved KQL detection rules within Microsoft Sentinel to enhance accuracy, reduce false positives, and optimize the SOC’s overall efficiency.
 
 This balance between offensive knowledge and defensive implementation allows me to approach incidents from both perspectives — understanding attacker behavior and designing stronger detections. 
 
-## Objective
+## 🎯 Objective
 [Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
