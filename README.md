@@ -53,4 +53,6 @@ This balance between offensive knowledge and defensive implementation allows me 
 </div>
 
 ## Projects
-• SOC Automation MVP (Rademaker): Automated incident workflows and improved KQL detections in Microsoft Sentinel using Logic Apps and Azure Functions.
+- [Phishing Simulation & Awareness Training](https://github.com/SvenGeurtsen/phishing-simulation)
+- SOC Automation MVP (Rademaker): Automated incident workflows and improved KQL detections in Microsoft Sentinel using Logic Apps and Azure Functions.
+
