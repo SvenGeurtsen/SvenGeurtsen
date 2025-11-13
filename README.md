@@ -3,7 +3,7 @@
 
 ## 🎓 Education
 
-Associate Degree in Cyber Security — Hogeschool van Amsterdam
+Associate Degree in Cyber Security Hogeschool van Amsterdam
 Graduated: 2025
 
 During my studies, I focused on both offensive and defensive security.
@@ -11,7 +11,7 @@ I worked on penetration testing labs, vulnerability assessments, and blue team s
 
 My graduation project at Rademaker centered on defensive cybersecurity, where I developed a Minimum Viable Product to automate SOC processes using Microsoft Sentinel, Logic Apps, Azure Functions. I also improved KQL detection rules within Microsoft Sentinel to enhance accuracy, reduce false positives, and optimize the SOC’s overall efficiency.
 
-This balance between offensive knowledge and defensive implementation allows me to approach incidents from both perspectives — understanding attacker behavior and designing stronger detections. 
+This balance between offensive knowledge and defensive implementation allows me to approach incidents from both perspectives understanding attacker behavior and designing stronger detections. 
 
 ## 🎯 Objective
 [Provide Objective - Remove this afterwards]]
