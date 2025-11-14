@@ -22,8 +22,7 @@ This balance between offensive knowledge and defensive implementation allows me 
 | Phishing Simulation & Social Engineering        | <a href="https://github.com/SvenGeurtsen/phishing-simulation">Phishing Simulation</a>|
 | SOC Automation (Logic Apps & Azure Functions)  | Rademaker SOC Automation MVP|
 | SIEM Monitoring (Microsoft Sentinel)      | Rademaker SOC Automation MVP|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## 🧰 Tools
 
@@ -37,10 +36,11 @@ This balance between offensive knowledge and defensive implementation allows me 
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+### SIEM & Cloud Security
+<div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure_Functions-0062AD?&style=for-the-badge&logo=AzureFunctions&logoColor=white" /> <img src="https://img.shields.io/badge/-Logic_Apps-0089D6?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" /> </div>
+
+### Scripting & Automation
+<div> <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-KQL-3C3C3D?style=for-the-badge" /> </div>
 
 ## Certifications
 <div>
